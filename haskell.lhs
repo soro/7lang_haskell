@@ -734,6 +734,7 @@ data Color' = Color' { red :: Integer, green :: Integer,
 
 class Colorizable a where
   colorize :: a -> Maybe Color'
+-- I have omitted the instance declarations, insert here
 
 data Colorlike = forall a. Colorizable a => Colorish
 

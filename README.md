@@ -8,3 +8,5 @@ Just run make and open the haskell.pdf.
 To run the slides use `runhaskell haskell.lhs`
 
 If you want to extract the code use `make extract`. The Latex does clutter it up a bit.
+
+If you see an error or would like to make modifications, please feel free to do so and open a pull request.
