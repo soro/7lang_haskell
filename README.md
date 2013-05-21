@@ -2,6 +2,7 @@ Haskell 7 lang talk
 ===================
 
 Slides and code Haskell for my talk in the 7 languages in 7 months series.
+You will need PdfTex if you want to compile the slides, so install the LaTeX distribution of your choice - good idea in general.
 Just run make and open the haskell.pdf.
 
 To run the slides use `runhaskell haskell.lhs`
